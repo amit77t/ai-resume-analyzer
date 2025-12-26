@@ -1,4 +1,4 @@
-
+# AI-Resume-Analyzer
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
@@ -83,4 +83,4 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 
 ---
 
-# Amit Chaurasia
+### Amit Chaurasia
